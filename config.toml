@@ -1,0 +1,17 @@
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "/"
+canonifyURLs = true
+title = "Abbes Bessrour logs"
+Paginate = 5
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  subtitle = "My personal page"
+  author = "Abbes Bessrour"
+  
